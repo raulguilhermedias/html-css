@@ -1,0 +1,12 @@
+.titulo {
+    background-color: green;
+    text-align: center;
+    color: white;
+}
+.esquerda {
+    text-align: right;
+    color: greenyellow;
+}
+h1 {
+    color: green;
+}
