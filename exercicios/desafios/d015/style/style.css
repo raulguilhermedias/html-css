@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body {
+    background-color: brown;
+    background-image: url('../imgs/fundo-madeira.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.centro {
+    text-align: center;
+    padding: 285px;
+    background-image: url('../imgs/frame-iphone.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 314px;
+}
+
+.home {
+    text-align: right;
+    margin: 0%;
+    background-image: url('../imgs/logo-home.jpg');
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
